@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local settings and databases
+settings.json
+
+# IDE folders
+.vscode/
+.idea/
+
+# Translation raw files (optional, but keeps repo small)
+# ui/translations/*.ts
